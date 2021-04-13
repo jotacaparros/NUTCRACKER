@@ -1,4 +1,4 @@
-package sample.Sprite;
+package nutcracker.Sprite;
 
 public class Testicle {
 }

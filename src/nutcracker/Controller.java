@@ -1,4 +1,4 @@
-package sample;
+package nutcracker;
 
 public class Controller {
 }
